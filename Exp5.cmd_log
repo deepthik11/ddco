@@ -1,0 +1,30 @@
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 Exp5.ngc Exp5.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Exp5_map.ncd Exp5.ngd Exp5.pcf 
+par -w -intstyle ise -ol high -t 1 Exp5_map.ncd Exp5.ncd Exp5.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Exp5.twx Exp5.ncd -o Exp5.twr Exp5.pcf 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 Exp5.ngc Exp5.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Exp5_map.ncd Exp5.ngd Exp5.pcf 
+par -w -intstyle ise -ol high -t 1 Exp5_map.ncd Exp5.ncd Exp5.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Exp5.twx Exp5.ncd -o Exp5.twr Exp5.pcf 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 Exp5.ngc Exp5.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Exp5_map.ncd Exp5.ngd Exp5.pcf 
+par -w -intstyle ise -ol high -t 1 Exp5_map.ncd Exp5.ncd Exp5.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Exp5.twx Exp5.ncd -o Exp5.twr Exp5.pcf 
+xst -intstyle ise -ifn "D:/4VP23AI014/decimaladder/Exp5.xst" -ofn "D:/4VP23AI014/decimaladder/Exp5.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-4 Exp5.ngc Exp5.ngd  
+map -intstyle ise -p xc3s50-pq208-4 -cm area -ir off -pr off -c 100 -o Exp5_map.ncd Exp5.ngd Exp5.pcf 
+par -w -intstyle ise -ol high -t 1 Exp5_map.ncd Exp5.ncd Exp5.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Exp5.twx Exp5.ncd -o Exp5.twr Exp5.pcf 

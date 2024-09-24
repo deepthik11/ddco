@@ -1,0 +1,5 @@
+set -tmpdir "D:/4VP23AI014/decimaladder/xst/projnav.tmp"
+set -xsthdpdir "D:/4VP23AI014/decimaladder/xst"
+elaborate
+-ifn exp6.prj
+-ifmt mixed

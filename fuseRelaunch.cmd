@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/4VP23AI014/demultiplexer/demux18_isim_beh.exe" -prj "D:/4VP23AI014/demultiplexer/demux18_beh.prj" "work.demux18" "work.glbl" 
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/4VP23AI014/decimaladder/Exp5_isim_beh.exe" -prj "D:/4VP23AI014/decimaladder/Exp5_beh.prj" "work.Exp5" "work.glbl" 
