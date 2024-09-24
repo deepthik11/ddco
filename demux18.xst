@@ -1,0 +1,5 @@
+set -tmpdir "D:/4VP23AI014/demultiplexer/xst/projnav.tmp"
+set -xsthdpdir "D:/4VP23AI014/demultiplexer/xst"
+elaborate
+-ifn demux18.prj
+-ifmt mixed
